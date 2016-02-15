@@ -1,28 +1,30 @@
-Java 8: The Missing Tutorial
+Java 8: El Tutorial Faltante
 --------------
 
-Java 8 is not a new topic anymore. There are many good books published on it. Still I meet many Java developers unaware of the power of Java 8. The goal of this microbook is to cover some of the most important Java 8 features and how they can help developers in their day to day programming. This is based on my [7 days with Java 8](http://shekhargulati.com/7-days-with-java-8/) blog series.
+Esta es una traducción autorizada al español de [https://github.com/shekhargulati/java8-the-missing-tutorial]
 
-## Contributing to the Java 8: The Missing Tutorial
+Java 8 ya no es un tema nuevo. Existen muchos libros buenos que hablan de él. Aún encuentro muchos desarrolladores de Java que no conocen el poder de Java 8. El objetivo de este micro libro es cubrir algunas de las importantes características de Java 8 y cómo estos pueden ayudar a los programadores en su día a día de programación. Esto está basado en la serie de publicaciones   [7 days with Java 8](http://shekhargulati.com/7-days-with-java-8/) .
 
-Please contribute if you see an error or something that could be better! Raise an [issue](https://github.com/shekhargulati/java8-the-missing-tutorial/issues) or send me a pull request to improve. Contributions of all kinds, including corrections, additions, improvements, and translations, are welcome!
+## Contribución a Java 8: El Tutorial Faltante
 
-## Table of Contents
+Por favor, si encuentra algún error o algo qué mejorar, apóyenos! Ingrese una  [indicencia](https://github.com/shekhargulati/java8-the-missing-tutorial/issues) o envíenos un pull request para mejorar. ¡Todas las contribuciones, incluyendo correcciones, adiciones, mejoras y traducciones, son bienvenidas!
 
-* [Default and Static Methods for Interfaces](./01-default-static-interface-methods.md)
+## Contenido
+
+* [Métodos por omisión y estáticos para Interfaces](./01-default-static-interface-methods.md)
 * [Lambdas](./02-lambdas.md)
 * [Streams](./03-streams.md)
-* [Collectors](./04-collectors.md)
-* [Optionals](./05-optionals.md)
-* [Map improvements](./06-map.md): Not written yet
-* [Building functional programs](./07-building-functional-programs.md): Not written yet
-* [Date Time API](./08-date-time-api.md)
-* [Completable Futures](./09-completable-futures.md): Not written yet
+* [Collectores](./04-collectors.md)
+* [Opciones](./05-optionals.md)
+* [Mejoras en los mapas](./06-map.md): Aún no escrito
+* [Construyendo programas funcionales](./07-building-functional-programs.md): Not written yet
+* [API de Fecha y Hora](./08-date-time-api.md)
+* [Completable Futures](./09-completable-futures.md): Aún no escrito
 * [Nashorn](./10-nashorn.md)
-* [Tools](./11-tools.md): Not written yet
-* [Annotation improvements](./12-annotations.md)
+* [Herramientas](./11-tools.md): Not written yet
+* [Mejoras en las anotaciones](./12-annotations.md)
 
 -----------
-You can follow me on twitter at [https://twitter.com/shekhargulati](https://twitter.com/shekhargulati) or email me at <shekhargulati84@gmail.com>. Also, you can read my blogs at [http://shekhargulati.com/](http://shekhargulati.com/)
+Sigue al twitter [https://twitter.com/shekhargulati](https://twitter.com/shekhargulati) o al autor original <shekhargulati84@gmail.com>. También puedes leer sus blogs en [http://shekhargulati.com/](http://shekhargulati.com/)
 
 [![Analytics](https://ga-beacon.appspot.com/UA-59411913-3/shekhargulati/java8-the-missing-tutorial)](https://github.com/igrigorik/ga-beacon)
